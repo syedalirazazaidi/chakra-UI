@@ -1,6 +1,5 @@
 import { Box, Heading, VStack, Text } from '@chakra-ui/react'
 import React from 'react'
-
 const Header = () => {
   return (
     <Box as="section" bg="#6B46C1" w="100%" h="397px" color="#F7FAFC">
