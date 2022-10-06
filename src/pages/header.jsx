@@ -3,13 +3,11 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <Box bg="#6B46C1" w="100%" h="397px" color="white">
+    <Box as="section" bg="#6B46C1" w="100%" h="397px" color="#F7FAFC">
       <VStack>
         <Heading
-          size="lg"
-          w='751px'
+          w="751px"
           fontSize="48px"
-          lineHeight="62.4px"
           mt="88.45px"
           mr="314px"
           ml="375px"
@@ -17,8 +15,7 @@ const Header = () => {
         >
           I'm overriding this heading
         </Heading>
-        <Text fontSize="24px" w='604px'
->
+        <Text fontSize="24px" w="604px" fontWeight="500" pt="16px">
           Plans that are carefully crafted to suit your business.
         </Text>
       </VStack>
