@@ -8,7 +8,7 @@ const Header = () => {
           w={['366px', '751px', '751px']}
           fontSize={['3xl', '3xl', '5xl']}
           mt="40.45px"
-          ml={['90px', '85px', '85px']}
+          ml={['90px', '80px', '80px']}
           fontWeight="extrabold"
         >
           I'm overriding this heading
