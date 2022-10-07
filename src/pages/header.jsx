@@ -6,15 +6,15 @@ const Header = () => {
       <VStack>
         <Heading
           w="751px"
-          fontSize="48px"
+          fontSize="5xl"
           mt="88.45px"
           mr="314px"
           ml="375px"
-          fontWeight="800"
+          fontWeight="extrabold"
         >
           I'm overriding this heading
         </Heading>
-        <Text fontSize="24px" w="604px" fontWeight="500" pt="16px">
+        <Text fontSize="2xl" w="604px" fontWeight="medium" pt="16px">
           Plans that are carefully crafted to suit your business.
         </Text>
       </VStack>
