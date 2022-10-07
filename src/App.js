@@ -1,7 +1,6 @@
 import Card from './pages/card'
 import Features from './pages/features'
 import Header from './pages/header'
-import Test from './pages/test'
 
 function App() {
   return (
@@ -9,7 +8,6 @@ function App() {
       <Header />
       <Card />
       <Features />
-      {/* <Test /> */}
     </div>
   )
 }
