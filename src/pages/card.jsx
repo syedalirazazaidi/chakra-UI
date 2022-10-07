@@ -14,17 +14,14 @@ import myicon from '../Icons/icon.svg'
 const Card = () => {
   return (
     <Flex
-     
-    
       bg="white"
       w="994px"
       h="337px"
       m="auto"
-      mt="-120px"
-      borderRadius='12px'
-      overflow='hidden'
+      mt="-145px"
+      borderRadius="12px"
+      overflow="hidden"
       boxShadow="0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 10px 10px -5px rgba(0, 0, 0, 0.04);"
-
     >
       <Box w="378px" h="337px" bg="#F0EAFB" p="60px">
         <VStack textAlign="center">
